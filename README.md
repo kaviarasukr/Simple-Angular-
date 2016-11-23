@@ -1,4 +1,4 @@
-# Simple-Angular-
+# Simple-Angular-GitHub-Repos-Retrive Using GitHub API
 A simple Angular application to retrieve  GitHub profile repository items and some of its associated attributes.
 This application use $http service to get the data from the GitHub API.
 
